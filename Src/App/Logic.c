@@ -25,7 +25,7 @@ void Logic()
 	{
 	}
 	RunMain();
-	
+	int i = 0;
 
 }
 
